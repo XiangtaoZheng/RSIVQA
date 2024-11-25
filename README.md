@@ -2,9 +2,10 @@
 RSIVQA is a remote sensing visual question answering dataset proposed in the paper "Mutual Attention Inception Network for Remote Sensing Visual Question Answering".
 If this data set is used in your work, please cite our paper.
 
-[1] X. Zheng, B. Wang, X. Du and X. Lu, "Mutual Attention Inception Network for Remote Sensing Visual Question Answering," IEEE Transactions on Geoscience and Remote Sensing, 2021.
+[1] [X. Zheng, B. Wang, X. Du and X. Lu, "Mutual Attention Inception Network for Remote Sensing Visual Question Answering," IEEE Transactions on Geoscience and Remote Sensing, 2021.](https://ieeexplore.ieee.org/document/9444570)
 
-@article{zheng2021mutual,
+@article{
+  zheng2021mutual,
   title={Mutual attention inception network for remote sensing visual question answering},
   author={Zheng, Xiangtao and Wang, Binqiang and Du, Xingqian and Lu, Xiaoqiang},
   journal={IEEE Transactions on Geoscience and Remote Sensing},
